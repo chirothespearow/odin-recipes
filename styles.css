@@ -1,0 +1,22 @@
+.ulmain{
+    font-family:"Times New Roman",sans-serif;
+    font-size: 34px;
+}
+h1{
+    text-align: center;
+    background-color: rgb(253, 138, 30, 1);
+}
+.main{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:50%;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #FFFDD0;
+}
